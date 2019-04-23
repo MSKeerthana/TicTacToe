@@ -57,5 +57,4 @@ public class ValidationTest {
 		assertEquals(2,m.win(m.ticbox));
 	}
 
-
 }
